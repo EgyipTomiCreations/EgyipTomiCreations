@@ -42,4 +42,4 @@
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=egyiptomicreations&show_icons=true&locale=en&theme=blue-green" alt="egyiptomicreations" /></p>
+![Egyiptomicreations's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Egyiptomicreations&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
